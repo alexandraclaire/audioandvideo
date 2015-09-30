@@ -1,0 +1,15 @@
+body {
+	font-family:helvetica;
+	max-width:960px;
+	margin:0 auto;
+	width:88%;
+}
+h1 {
+	color:pink;
+	font-size:100px;
+	font-family: 'Abril Fatface', cursive;
+	padding:0 0.7em;
+}
+video {
+	margin:0 auto;
+}
